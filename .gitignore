@@ -39,7 +39,7 @@ docker-compose.override.yml
 
 # Database
 /database.sqlite
-
+/backend/database.sqlite
 # IDEs and editors
 .vscode/
 .idea/
